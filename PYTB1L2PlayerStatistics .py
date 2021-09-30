@@ -10,5 +10,3 @@ print("Ability= " + abilit)
 print("Lengte= " + lengt)
 print("Health= " + healt)
 print("Level= " + leve)
-
-
